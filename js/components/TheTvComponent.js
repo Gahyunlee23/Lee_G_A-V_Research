@@ -13,6 +13,7 @@ export default {
             <span class="media-time">20m</span>
             <span class="media-year">1994</span>
         </div>
+
     </div>
 `,
 
